@@ -1,0 +1,214 @@
+.principal ul{
+    display: flex;
+    margin-left: 10px;
+    flex-direction: row;
+    align-items: flex-start;
+    cursor: pointer;
+    transform: 0.3s;
+   
+}
+header{ background-color: rgb(108, 108, 179); padding:  15px 15px; border-radius: 20px;
+       }
+
+ul li{ transition: background-color 0.3s, color 0.3s; border-radius: 10px;}
+ul li:hover{ background-color: white; color: RED;}
+.principal  li{
+    margin-left: 40px;
+    list-style: none;
+    font-size: 20px;
+    font-family: "roboto", sans-serif;
+    color: rgb(253, 252, 252);
+    
+}
+.principal a{
+    text-decoration: none;
+    color: black; 
+}
+.second li{
+    margin-left: 50px;
+}
+.second a{
+    color: white;
+    text-decoration: none;
+    
+}
+a.ba{
+    color: rgb(247, 241, 241);
+    background: rgb(99, 87, 87);
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+a.b{
+        color: rgb(249, 246, 246);
+    background: rgb(17, 10, 141);
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    
+}
+h1.ecrit{
+    margin-top: 8%;
+    font-size: 90px;
+    margin-left: 90px;
+    
+}
+
+
+
+
+
+
+h1{margin-left: 20%;}
+
+img.dior{
+    width: 40%; border-radius: 20px; margin-left: 10%;}
+.sauvage{ display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.yuyu{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.yuyu p{ text-align: center; font-size: 20px;}
+.yuyu h1{ font-size: 50px;text-decoration: underline;margin-top: 20%; margin-left: 33%;}
+p.koko{font-size: 40px;}
+span{background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage a{ text-decoration: none; color: black;}
+
+
+img.jojo{ width: 40%; border-radius: 20px; margin-left: 10%}
+.qaqa{display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.yoyo{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.yoyo p{text-align: center; font-size: 18px;}
+.yoyo h1{font-size: 50px;text-decoration: underline;margin-top: 15%; margin-left: 24%;}
+p.caca{font-size: 40px;}
+span{background-color: white;padding: 5px 5px 5px 5px;}
+.qaqa a{ text-decoration: none; color: black;}
+
+img.jaja{ width: 40%; border-radius: 20px; margin-left: 10%;}
+.sauvage2{display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.yeye{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.yeye p{ text-align: center; font-size: 17px;}
+.yeye h1{font-size: 37px;text-decoration: underline;margin-top: 15%; margin-left: 19%;}
+p.la{font-size: 40px;}
+span{background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage2 a{ text-decoration: none; color: black;}
+
+
+img.jiji{width: 40%; border-radius: 20px; margin-left: 10% }
+.sauvage3{ display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.yiyi{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.yiyi p{text-align: center; font-size: 20px;}
+.yiyi h1{font-size: 30px;text-decoration: underline;margin-top: 15%; margin-left: 27%;}
+p.le{ font-size: 40px;}
+span{background-color: white;padding: 5px 5px 5px 5px; }
+.sauvage3 a{ text-decoration: none; color: black;} 
+
+
+img.jeje{width: 40%; border-radius: 20px; margin-left: 10%}
+.sauvage4{ display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.yaya{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.yaya p{text-align: center; font-size: 17px;}
+.yaya h1{font-size: 40px;text-decoration: underline;margin-top: 25%; margin-left: 35%;}
+p.ho{ font-size: 40px;}
+span{background-color: white;padding: 5px 5px 5px 5px; }
+.sauvage4 a{ text-decoration: none; color: black;}
+
+
+img.jyjy{width: 40%; border-radius: 20px; margin-left: 10%}
+.sauvage5{ display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.yyyy{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.yyyy p{text-align: center; font-size: 20px;}
+.yyyy h1{font-size: 45px;text-decoration: underline;margin-top: 15%; margin-left: 35%; }
+p.tu{font-size: 40px;}
+span{ background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage5 a{ text-decoration: none; color: black;}
+
+
+
+img.herdi{width: 40%; border-radius: 20px; margin-left: 10%}
+.sauvage6{display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.ruru{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.ruru p{text-align: center; font-size: 22px;}
+.ruru h1{font-size: 35px;text-decoration: underline;margin-top: 15%; margin-left: 25%;}
+p.te{font-size: 40px;}
+span{background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage6 a{ text-decoration: none; color: black;}
+
+
+img.koko{width: 40%; border-radius: 20px; margin-left: 10% }
+.sauvage7{display: flex; flex-wrap: wrap;justify-content: flex-start; }
+.dudu{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px; }
+.dudu p{ text-align: center; font-size: 24px;}
+.dudu h1{ font-size: 35px;text-decoration: underline;margin-top: 15%; margin-left: 40%;}
+p.do{ font-size: 40px;}
+span{ background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage7 a{ text-decoration: none; color: black;}
+
+
+img.zuko{ width: 40%; border-radius: 20px; margin-left: 10%}
+.sauvage8{ display: flex; flex-wrap: wrap;justify-content: flex-start;}
+.xuxu{ background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px;}
+.xuxu p{ text-align: center; font-size: 25px;}
+.xuxu h1{font-size: 35px;text-decoration: underline;margin-top: 15%; margin-left: 33%;}
+p.qo{ font-size: 40px;}
+span{ background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage8 a{ text-decoration: none; color: black;}
+
+
+img.suiii{width: 40%; border-radius: 20px; margin-left: 10% }
+.sauvage9{ display: flex; flex-wrap: wrap;justify-content: flex-start; }
+.susu{background-color: darksalmon;padding: 10px 10px 10px 10px;border-radius: 20px; margin-left: 15px; }
+.susu p{ text-align: center; font-size: 22px; }
+.susu h1{font-size: 35px;text-decoration: underline;margin-top: 15%; margin-left: 30%; }
+p.bubu{font-size: 40px }
+span{ background-color: white;padding: 5px 5px 5px 5px;}
+.sauvage9 a{ text-decoration: none; color: black;}
+
+
+input.veve{ margin-left: 82%; color: rgb(251, 251, 253); padding: 5px 5px 5px 5px; width: 8%; background-color:red;}
+input.gege{color: rgb(253, 253, 254); padding: 5px 5px 5px 5px; width: 8%; background-color: dimgray; }
+
+
+
+/* RESPONSIVE */
+
+/* PETITS ÉCRANS - TÉLÉPHONES */
+@media (max-width: 768px) {
+    .principal {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .premier {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .suivant {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    div[class^="sauvage"], .qaqa {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    .gege, .veve {
+        width: 80%;
+        margin: 10px auto;
+        display: block;
+    }
+}
+
+/* TABLETTES */
+@media (max-width: 1024px) and (min-width: 769px) {
+    .dior, .jojo, .jaja, .jiji, .jeje, .jyjy, .herdi, .koko, .zuko, .suiii {
+        width: 150px;
+    }
+
+    div[class^="sauvage"], .qaqa {
+        flex-direction: row;
+        text-align: left;
+    }
+}

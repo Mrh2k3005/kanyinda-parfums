@@ -1,0 +1,42 @@
+.lala{ background-color: antiquewhite; width:40%; margin-left: 28%; 
+	   border-radius: 20px; padding: 20px 20px 20px 20px ; margin-top: 3%;}
+.lala form{ margin-left: 14%; cursor: pointer;}
+input.de{ padding: 10px 10px 10px 10px; width: 80%; border-radius: 20px;}
+input.di{ padding: 10px 10px 10px 10px; width: 80%; border-radius: 20px }
+h1{ text-decoration: underline; margin-left: 24%;}
+span{ background-color: blue; padding: 10px 10px 10px 10px; border-radius: 20px; margin-left: 30%;
+      color: white; cursor: pointer;
+}
+p{ text-decoration: underline;}
+input.do{ padding: 10px 10px 10px 10px; width: 80%; border-radius: 20px }
+input.da{ padding: 10px 10px 10px 10px; width: 80%; border-radius: 20px }
+input.dy{ padding: 10px 10px 10px 10px; width: 80%; border-radius: 20px }
+
+
+/* Responsive */
+@media (max-width: 768px) {
+    .lala {
+        margin: 20px 15px;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    a span {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .lala {
+        max-width: 500px;
+        padding: 35px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+}

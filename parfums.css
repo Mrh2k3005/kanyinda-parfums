@@ -1,0 +1,618 @@
+.principal ul{
+    display: flex;
+    margin-left: 10px;
+    flex-direction: row;
+    align-items: flex-start;
+    cursor: pointer;
+    transform: 0.3s;
+   
+}
+header{ background-color: rgb(108, 108, 179); padding:  15px 15px; border-radius: 20px;
+       }
+
+ul li{ transition: background-color 0.3s, color 0.3s; border-radius: 10px;}
+ul li:hover{ background-color: white; color: RED;}
+.principal  li{
+    margin-left: 40px;
+    list-style: none;
+    font-size: 20px;
+    font-family: "roboto", sans-serif;
+    color: rgb(253, 252, 252);
+    
+}
+.principal a{
+    text-decoration: none;
+    color: black; 
+}
+.second li{
+    margin-left: 50px;
+}
+.second a{
+    color: white;
+    text-decoration: none;
+    
+}
+a.ba{
+    color: rgb(247, 241, 241);
+    background: rgb(99, 87, 87);
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+a.b{
+        color: rgb(249, 246, 246);
+    background: rgb(17, 10, 141);
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    
+}
+h1.ecrit{
+    margin-top: 8%;
+    font-size: 90px;
+    margin-left: 90px;
+    
+}
+
+
+
+
+body{
+    background:antiquewhite ;
+}
+h1{
+    color:black;
+    font-size: 60px;
+    margin-left: 35%;
+}
+hr.rr{
+    width: 27%;
+}
+
+header{ background-color: rgb(108, 108, 179); padding:  15px 15px; border-radius: 20px;
+       }
+
+.principal ul{
+    display: flex;
+    margin-left: 10px;
+    flex-direction: row;
+    align-items: flex-start;
+    cursor: pointer;
+    transform: 0.3s;
+   
+}
+header{ background-color: rgb(108, 108, 179); padding:  15px 15px; border-radius: 20px;
+       }
+
+
+.principal  li{
+    margin-left: 40px;
+    list-style: none;
+    font-size: 20px;
+    font-family: "roboto", sans-serif;
+    color: rgb(8, 2, 2);
+    
+}
+.principal a{
+    text-decoration: none;
+    color: black;
+}
+.second li{
+    margin-left: 50px;
+}
+.second a{
+    color: rgb(9, 0, 0);
+    text-decoration: none;
+    
+}
+a.ba{
+    color: rgb(10, 0, 0);
+    background: rgb(99, 87, 87);
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+a.b{
+        color: rgb(2, 0, 0);
+    background: rgb(17, 10, 141);
+    padding: 10px 10px 10px 10px ;
+    border-radius: 10px;
+    
+}
+h1.ecrit{
+    margin-top: 8%;
+    font-size: 90px;
+    margin-left: 90px;
+    
+}
+
+
+.containeur{
+    display: flex;
+   
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: flex-start;
+}
+.containeur h2{
+    color: rgb(12, 0, 0);
+    font-size: 50px;
+    margin-left: 40%;
+    text-decoration: underline;
+}
+.containeur p{
+    color: rgb(3, 0, 0);
+    font-size: 20px;
+    margin-left: 40%;
+    
+}
+
+span.slogan{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 39%;
+}
+.prixs span{
+    background-color: rgb(223, 24, 24);
+    color: white;
+    font-size: 35px;
+    padding: 5px 5px 5px 5px;
+}
+img.zizu{
+    width: 25%;
+    margin-left: 20px;
+    border-radius: 30px;
+    margin-top: 4%;
+    padding: 0 ;
+}
+p.slogan{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+}
+
+
+
+.containeur2{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: flex-start;
+}
+img.zizo{
+      width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+      padding: 0 ;
+}
+.containeur2 h2{
+      color: rgb(8, 0, 0);
+      text-decoration: underline;
+       font-size: 45px;
+       margin-left: 38%;
+}
+.containeur2 p{
+     color:black;
+    font-size: 20px;
+    margin-left: 40%;
+
+}
+
+span.slogan2{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 40%;
+}
+p.prix2 span{
+     background-color: rgb(223, 24, 24);
+    color: rgb(251, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+p.slogan2{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    width: 300px;
+}
+
+
+
+
+.containeur3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    
+}
+img.zazu{
+         width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+      padding: 0 ;
+}
+
+.containeur3 h2{
+    text-decoration: underline;
+    color: rgb(5, 0, 0);
+     font-size: 45px;
+       margin-left: 40%;
+       font-family:  'Great Vibes', cursive;
+}
+.containeur3 p{
+     color: rgb(8, 0, 0);
+    font-size: 20px;
+    margin-left: 40%;
+    text-align: center;
+
+}
+
+span.slogan3{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 50%;
+}
+p.prix3 span{
+     background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+p.slogan3{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+}
+
+
+
+
+.containeur4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    
+}
+img.zozo{
+    width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+      padding: 0 ;
+}
+.containeur4 h2{
+    color: rgb(5, 0, 0);
+       text-decoration: underline;
+     font-size: 35px;
+       margin-left: 36%;
+}
+.containeur4 p{
+          color: rgb(7, 7, 7);
+    font-size: 20px;
+    margin-left: 40%;
+    text-align: center;
+}
+span.slogan4{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 50%;
+}
+p.prix4 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+
+p.slogan4{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+
+}
+
+
+
+
+.containeur5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    
+}
+img.zoza{
+    width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+      padding: 0 ;
+}
+.containeur5 h2{
+    color: rgb(10, 0, 0);
+       text-decoration: underline;
+     font-size: 45px;
+       margin-left: 44%;
+       font-family: font-family, 'Dancing Script', cursive;
+}
+.containeur5 p{
+          color: rgb(3, 3, 3);
+    font-size: 20px;
+    margin-left: 48%;
+    text-align: center;
+}
+span.slogan5{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 50%;
+}
+p.prix5 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+
+p.slogan5{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+}
+
+
+
+
+.containeur6{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+img.lo{
+      width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+    
+}
+.containeur6 h2{
+    color: rgb(8, 0, 0);
+       text-decoration: underline;
+     font-size: 55px;
+       margin-left: 48%;
+       font-family: font-family, 'Dancing Script', cursive;
+}
+.containeur6 p{
+          color: rgb(6, 0, 0);
+    font-size: 20px;
+    margin-left: 48%;
+        text-align: center;
+}
+p.prix6 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+
+span.slogan6{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+     margin-left: 50%; 
+     padding: 5px 5px 5px 5px;
+}
+
+
+
+
+.containeur7{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+img.zaza{
+     
+       width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+}
+p.prix7 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+    padding: 5px 5px 5px 5px;
+    font-size: 35px;
+}
+
+span.slogant7{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    margin-left: 48%;
+    padding: 5px 5px 5px 5px;  
+}
+
+.containeur7 p{
+          color: black;
+    font-size: 20px;
+    margin-left: 23%;
+        text-align: center;
+}
+.containeur7 h1{
+    text-decoration: underline;
+    font-size: 50px;
+           font-family: font-family, 'Dancing Script', cursive;
+           margin-left: 40%;
+}
+
+
+
+
+.rato{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+img.ruru{
+     
+       width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+}
+p.prix8 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+
+span.slogant8{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 50%;
+    
+}
+
+.rato p{
+          color: rgb(5, 0, 0);
+    font-size: 20px;
+    margin-left: 23%;
+        text-align: center;
+}
+.rato h1{
+    text-decoration: underline;
+}
+
+
+
+
+
+.rato2{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+img.lolo{
+     
+       width: 26%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+}
+p.prix9 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+     padding: 5px 5px 5px 5px;
+     font-size: 35px;
+}
+
+
+span.slogant9{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    margin-left: 52%; 
+    padding: 5px 5px 5px 5px;   
+}
+
+.rato2 p{
+          color: rgb(7, 0, 0);
+    font-size: 20px;
+    margin-left: 23%;
+        text-align: center;
+}
+.rato2 h1{
+    text-decoration: underline;
+    margin-left: 30%;
+}
+
+
+
+
+
+.rato3{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+img.ima{
+     
+       width: 25%;
+      margin-left: 20px;
+      border-radius: 30px;
+      margin-top: 4%;
+}
+p.prix10 span{
+      background-color: rgb(223, 24, 24);
+    color: rgb(250, 248, 248);
+    padding: 5px 5px 5px 5px;
+    font-size: 35px;
+}
+
+span.slogant10{
+     background-color: white;
+    border-radius: 20px;
+    color: black;
+    margin-left: 50%;
+    padding: 5px 5px 5px 5px;
+}
+
+.rato3 p{
+          color: rgb(3, 0, 0);
+    font-size: 20px;
+    margin-left: 23%;
+        text-align: center;
+}
+.rato3 h1{
+    text-decoration: underline;
+}
+
+
+
+input.suivant{
+    margin-left: 83%;
+    width: 90px;
+    background-color: skyblue;
+}
+input.retour{
+     margin-left: 10px;
+    width: 90px;
+    background-color: navy;
+}
+input{
+    padding: 5px 5px 5px 5px;
+    color: white;
+}
+span{ cursor: pointer;}
+@media (max-width: 768px) {
+    .produits {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header .principal {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
